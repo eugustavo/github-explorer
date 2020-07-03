@@ -29,7 +29,7 @@ Projeto desenvolvido no Bootcamp GoStack da Rocketseat
 </p>
 
 <p align="center">
-  <img alt="GithubExplorer" src="https://i.imgur.com/VPT4ceR.gif">
+  <img alt="GithubExplorer" src="https://i.imgur.com/bPhR9ap.gif">
 </p>
 
 
@@ -46,7 +46,7 @@ $ cd eugustavo/github-explorer
 # Instale as dependências
 $ yarn install
 
-# Inicie o aplicativo (necessário que o emulador esteja aberto)
+# Inicie a aplicação
 $ yarn start
 ```
 
